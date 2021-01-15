@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolBinario", "ArbolBinario\ArbolBinario.csproj", "{B163720A-5727-44F9-829B-C12A50BCD17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F2611BE9-1465-4646-8B50-38CF9AEC8B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B163720A-5727-44F9-829B-C12A50BCD17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B163720A-5727-44F9-829B-C12A50BCD17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B163720A-5727-44F9-829B-C12A50BCD17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B163720A-5727-44F9-829B-C12A50BCD17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2611BE9-1465-4646-8B50-38CF9AEC8B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2611BE9-1465-4646-8B50-38CF9AEC8B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2611BE9-1465-4646-8B50-38CF9AEC8B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2611BE9-1465-4646-8B50-38CF9AEC8B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FDC2441-9DF5-4249-A610-FE3393497440}
+	EndGlobalSection
+EndGlobal
